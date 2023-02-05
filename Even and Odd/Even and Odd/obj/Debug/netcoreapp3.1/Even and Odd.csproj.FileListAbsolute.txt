@@ -1,0 +1,28 @@
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.AssemblyInfo.cs
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.exe
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.deps.json
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.runtimeconfig.json
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.dll
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.pdb
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.dll
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.pdb
+C:\Users\dell\source\repos\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.genruntimeconfig.cache
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.exe
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.deps.json
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.runtimeconfig.json
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.runtimeconfig.dev.json
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.dll
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\bin\Debug\netcoreapp3.1\Even and Odd.pdb
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.AssemblyInfo.cs
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.csproj.CoreCompileInputs.cache
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.dll
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.pdb
+C:\Users\dell\Lectures\Odd Even\Even and Odd\Even and Odd\obj\Debug\netcoreapp3.1\Even and Odd.genruntimeconfig.cache
